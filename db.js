@@ -1,8 +1,8 @@
 import mysql from "mysql"
 
 export const db = mysql.createConnection({
-    host: "localhost",
-    user: "root",
-    password: "",
-    database: "kimpexpress"
+    host: "boca2dpbrkqhuamotuph-mysql.services.clever-cloud.com",
+    user: "unqzutprbqxzmxtd",
+    password: "eyQnTcsoHVhIVXN0kZEt",
+    database: "boca2dpbrkqhuamotuph"
 })
