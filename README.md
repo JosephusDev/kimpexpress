@@ -1,2 +1,2 @@
 # kimpexpress
-App mobile de rastreio de autocarros públicos escolares.
+API - Backend do App mobile de rastreio de autocarros públicos escolares.
